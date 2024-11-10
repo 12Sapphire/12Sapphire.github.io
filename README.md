@@ -21,8 +21,8 @@ npm install my-awesome-project
 
 | Header 1 | Header 2 |
 |----------|----------|
-| Row 1    | Data     |
-| Row 2    | More data|
+| Row 1    | stinky stupid dumb pooping poop     |
+| Row 2    | Gondo wala stupid dumb haguing hagu |
 
 
 
