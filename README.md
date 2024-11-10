@@ -18,4 +18,5 @@ To install, run the following command:
 npm install my-awesome-project
 
 [Visit youtube](https://youtube.com)
-![this is a image](https://example.com/image.jpg)
+
+
