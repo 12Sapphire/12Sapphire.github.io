@@ -11,12 +11,6 @@ Welcome to my website it is not meant to be the final website this is only a tes
 2. Second item
    1. Sub-item in ordered list
 
-## Installation
-To install, run the following command:
-
-```bash
-npm install my-awesome-project
-
 
 [Visit youtube](https://youtube.com)
 
