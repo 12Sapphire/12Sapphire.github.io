@@ -1,5 +1,5 @@
-# My Awesome Project
-Welcome to my project! Here’s some info.
+# My GitHub Website
+Welcome to my website it is not meant to be the final website this is only a test to test all the features
 
 ## Features
 - **Bold text feature**
@@ -18,3 +18,4 @@ To install, run the following command:
 npm install my-awesome-project
 
 [Visit youtube](https://youtube.com)
+![this is a image](https://example.com/image.jpg)
