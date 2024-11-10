@@ -16,4 +16,5 @@ To install, run the following command:
 
 ```bash
 npm install my-awesome-project
+
 [Visit GitHub](https://github.com)
