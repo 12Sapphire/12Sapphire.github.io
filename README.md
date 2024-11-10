@@ -19,4 +19,10 @@ npm install my-awesome-project
 
 [Visit youtube](https://youtube.com)
 
+| Header 1 | Header 2 |
+|----------|----------|
+| Row 1    | Data     |
+| Row 2    | More data|
+
+
 
