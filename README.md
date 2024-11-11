@@ -15,7 +15,7 @@ Welcome to my website it is not meant to be the final website this is only a tes
   
 ![Alt text for image](cartoon_night_sky.png)
 
-#### Do you want to visit you then you can
+#### Do you want to visit youtube then you can
 [Visit youtube](https://youtube.com)
 
 ### This is a Table
