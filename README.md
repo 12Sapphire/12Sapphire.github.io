@@ -25,6 +25,5 @@ Welcome to my website it is not meant to be the final website this is only a tes
 | Row 1    | data     |
 | Row 2    | data     |
 
-hello hello bye bye
 
 
