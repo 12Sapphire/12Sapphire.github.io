@@ -10,6 +10,9 @@ Welcome to my website it is not meant to be the final website this is only a tes
 1. First item in ordered list
 2. Second item
    1. Sub-item in ordered list
+  
+![Alt text for image]()
+
 
 [Visit youtube](https://youtube.com)
 
