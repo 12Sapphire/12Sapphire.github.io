@@ -1,4 +1,4 @@
-[About Me](other)
+[other](other)
 
 
 # My GitHub Website
