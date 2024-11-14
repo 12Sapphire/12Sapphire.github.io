@@ -1,3 +1,5 @@
+[stupid](stupid.md)
+
 # My GitHub Website
 Welcome to my website it is not meant to be the final website this is only a test to test all the features
 
