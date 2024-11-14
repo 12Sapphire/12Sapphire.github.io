@@ -1,2 +1,4 @@
+[home](README.md)
+
 # HEAHHAHHAHAHAH
 ## Stinky poopy WAHAHAHAHAHAHAH
