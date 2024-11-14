@@ -5,6 +5,3 @@ I will be posting my projects over here.
 
 I am 12sapphire. (that is not my real name)
 My projects are aobut electronics and usually require hardware and software.
-  
-
-
