@@ -1,4 +1,4 @@
-# Thsi is my blog
+# This is my blog
 Bla bla bla bla bbla
 
 ## About me
