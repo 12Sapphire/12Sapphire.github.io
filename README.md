@@ -7,4 +7,4 @@ I used a software called "P5js".
 It is like javascript but is used for art and education.
 I used to learn from Daniel Shiffman's youtube channel called
 
-[The Coding Train}(https://www.youtube.com/@TheCodingTrain)
+[The Coding Train](https://www.youtube.com/@TheCodingTrain)
