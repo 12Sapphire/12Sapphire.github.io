@@ -11,6 +11,6 @@ I used to learn from computer scientist Daniel Shiffman's youtube channel called
 
 Fast forward 2 years, I decided to use the "Elegoo Uno Super Starter Kit" that had been lying around. 
 It contains a Elegoo Uno R3 board which is like the Arduino Uno R3 board, the kit also contains some electronic components.
-To learn the Elegoo Uno R3 Super Starter Kit i watched the channel [BV3D: Bryan Vines](https://www.youtube.com/@BV3D)'s [Elegoo Uno Super Starter Kit Playlist](https://www.youtube.com/playlist?list=PLWdhcCYoOsiJE1DS7OhPfwrHrGlUED6Az).  
+To learn the Elegoo Uno R3 Super Starter Kit i watched the channel [BV3D: Bryan Vines](https://www.youtube.com/@BV3D)'s [Elegoo Uno Super Starter Kit Playlist](https://www.youtube.com/playlist?list=PLWdhcCYoOsiJE1DS7OhPfwrHrGlUED6Az). It was created by Bryan Vines.  
 
 
