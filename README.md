@@ -13,6 +13,9 @@ Fast forward 2 years, I decided to use the "Elegoo Uno Super Starter Kit" that h
 It contained an Elegoo Uno R3 board which is like the Arduino Uno R3 board, the kit also comes along with some electronic components.
 To learn the Elegoo Uno R3 Super Starter Kit I watched the channel [BV3D](https://www.youtube.com/@BV3D)'s [Elegoo Uno Super Starter Kit Playlist](https://www.youtube.com/playlist?list=PLWdhcCYoOsiJE1DS7OhPfwrHrGlUED6Az) created by Bryan Vines.
 The kit uses the Arduino IDE(integrated development environment), which utilizes C++ as its programming language
+I made a project with a IR receiver and IR remote control that prints something on Arduino IDE serial monitor.
+I also made one with a tilt ball switch that lights up a led and turns on a buzzer if anyone touches the project.
+
 
 
 
