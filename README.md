@@ -5,9 +5,10 @@
 I started electronics and coding when I was 9 years old.
 I used a software called "P5js".
 It is like javascript but is used for art and education.
-I used to learn from computer scientist Daniel Shiffman's youtube channel called
+
+  I used to learn from computer scientist Daniel Shiffman's youtube channel called
 [The Coding Train](https://www.youtube.com/@TheCodingTrain). More specifically, his [p5js playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA).
-I made a tree using fractals, abstract art using random, drawing games, + plus more.(etc)
+I made a [tree using fractals](<iframe src="https://editor.p5js.org/F12/full/Db1CgRsBo"></iframe>), abstract art using random, drawing games, + plus more.(etc)
 
 Fast forward 2 years, I decided to use the "Elegoo Uno Super Starter Kit" that had been lying around. 
 It contained an Elegoo Uno R3 board which is like the Arduino Uno R3 board, the kit also comes along with some electronic components.
