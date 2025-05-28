@@ -17,6 +17,8 @@ The kit uses the Arduino IDE(integrated development environment), which uses C++
 I made a project with a IR receiver and IR remote control that prints something on Arduino IDE serial monitor.
 I also made one with a tilt ball switch that lights up a led and turns on a buzzer if anyone touches the project.
 
+  After a few months I decided to get a Raspberry Pi car from Freenove.
+
 
 
 
