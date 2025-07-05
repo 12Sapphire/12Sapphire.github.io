@@ -2,7 +2,7 @@
 
 
 ## About me
-When i was 9 i started coding.I used a software called P5.js. It's like javascript but is used for art and education.
+When i was 9 i started coding.I used a software called P5.js. It's like JavaScript but is used for art and education.
 
 I learned from computer scientist Daniel Shiffman's youtube channel called
 [The Coding Train](https://www.youtube.com/@TheCodingTrain). More specifically, his [p5js playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA).
