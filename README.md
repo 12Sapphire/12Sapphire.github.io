@@ -1,7 +1,7 @@
 # This is a Portfolio
 
 ## Introduction
-Hi! I’m F.A. (Those are only the initials.). This portfolio will contain my projects, which are mostly about coding and electronics. Hopefully I can make this the most fun programming portfolio you’ve seen!
+Hi! I’m F.A. (Those are only the initials.). This portfolio will contain my projects, which are mostly about coding and electronics. Hopefully I can make this the best programming portfolio you’ve seen!
 
 ### About me
 I started when I was 9. I used a software called P5.js. It's like JavaScript but is used for art and education.
