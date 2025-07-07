@@ -13,7 +13,7 @@ It had an Elegoo Uno R3 board (It's a Arduino Uno R3 board with a different name
 I made a project with a IR receiver and IR remote control that prints sentences and words on Arduino IDE serial monitor. 
 I also made one with a tilt ball switch that lights up a led and turns on a buzzer if anyone touches the project.
 
-After a few months I decided to get a Raspberry Pi car from Freenove. After building and downloading everything, I had a lot of fun... for some days. But then the load button gave up and only the wheels worked, and then the power button gave up and it completely stopped working. I still don't know how to fix it yet.
+After a few months I decided to get a Raspberry Pi car from Freenove. After building and downloading everything, I had a lot of fun... for some days. But then the load button failed and only the wheels worked, and then the power button failed and it completely stopped working. I still don't know how to fix it yet.
 
 After a few weeks I went back to Arduino but this time I had to make a project that didn’t exist on BV3D without any help. But BV3D did have 2 projects that I already had to code for, and if I combined the code. I could use it in the new project. After wiring everything and uploading the code. My Temperature and Humidity Meter was done.
 
