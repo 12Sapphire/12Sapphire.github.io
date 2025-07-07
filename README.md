@@ -1,6 +1,6 @@
 # This is a Portfolio
 
-##Introduction
+## Introduction
 Hi! I’m F.A. (Those are only the initials.). This portfolio will contain my projects, which are mostly about coding and electronics. Hopefully I can make this the most fun programming portfolio you’ve seen!
 
 ### About me
