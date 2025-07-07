@@ -6,7 +6,7 @@ Hi! I’m F.A. (Those are only the initials.). This portfolio will contain my pr
 ### About me
 I started when I was 9. I used a software called P5.js. It's like JavaScript but is used for art and education.
 
-I learned from Daniel Shiffman's youtube channel called[The Coding Train](https://www.youtube.com/@TheCodingTrain). More specifically, his [p5js playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA). I made a [tree using fractals](https://editor.p5js.org/F12/sketches/Db1CgRsBo), [abstract art using random](https://editor.p5js.org/F12/sketches/-IKibwxcz), [drawing game](https://editor.p5js.org/F12/sketches/vHkDAzvx-)s, + plus more.
+I learned from Daniel Shiffman's youtube channel called[The Coding Train](https://www.youtube.com/@TheCodingTrain). More specifically, his [p5js playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA). I made a [tree using fractals](https://editor.p5js.org/F12/sketches/Db1CgRsBo), [abstract art](https://editor.p5js.org/F12/sketches/-IKibwxcz), [drawing game](https://editor.p5js.org/F12/sketches/vHkDAzvx-)s, + plus more.
 
 Fast forward 2 years, I used the "Elegoo Uno Super Starter Kit" that had been lying around. 
 It had an Elegoo Uno R3 board (It's a Arduino Uno R3 board with a different name), it also comes along with some electronic components.
