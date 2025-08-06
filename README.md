@@ -12,4 +12,4 @@ After a few weeks I went back to Arduino but this time I had to make a project t
 
 Some days later, it was time to upgrade the Temperature and Humidity Meter with an ESP32 and Mosquitto. It was mostly easy, but accessing the temperature and humidity was confusing. So I asked an AI chat bot for help. And that’s how my Temperature and Humidity Meter was upgraded!
 
-##Thanks!
+## Thanks!
