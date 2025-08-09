@@ -13,7 +13,7 @@ After a few months I decided to get a Raspberry Pi car from Freenove. After buil
 
 After a few weeks I went back to Arduino but this time I had to make a project that didn’t exist on BV3D. But BV3D did have 2 projects that I already had code for, and if I combined the code, I could use it in the new project. After wiring everything and uploading the code, my Temperature and Humidity Meter was done.
 
-Some days later, it was time to upgrade the Temperature and Humidity Meter with an ESP32 and Mosquitto. It was mostly easy, but accessing the temperature and humidity was confusing. So I asked an AI chat bot for help. And that’s how my Temperature and Humidity Meter was upgraded!
+Some days later, it was time to upgrade the Temperature and Humidity Meter with an ESP32 and Mosquitto. It was mostly easy, but accessing the temperature and humidity was confusing. So I asked an AI chat bot for help. And that’s how my Temperature and Humidity Meter was upgraded! 1234567890-sdfghjikhjgtyuh
 
 ## Thanks!
 
