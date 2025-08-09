@@ -1,6 +1,5 @@
- [Projects](projects.md)
-                                 
 # This is a Portfolio
+[Projects](projects.md)
 ![](GithubWebsiteHeadline.png)
 
 ### About Me
