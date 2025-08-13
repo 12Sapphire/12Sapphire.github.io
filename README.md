@@ -19,4 +19,4 @@ Check out my projects at the projects tab above or [here](Projects.md)!
 ## Thanks!
 
 
-![](index.html)
+[](index.html)
