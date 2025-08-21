@@ -2,7 +2,7 @@
 
 [Projects](Projects.md)
 
-![[](GithubWebsiteHeadline.png)
+![](GithubWebsiteHeadline.png)
 ### About Me
 I started when I was 9 with a software called P5.js. I learned from Daniel Shiffman's YouTube channel called [The Coding Train](https://www.youtube.com/@TheCodingTrain). I made a [tree using fractals](https://editor.p5js.org/F12/sketches/Db1CgRsBo), [abstract art](https://editor.p5js.org/F12/sketches/-IKibwxcz), [drawing game](https://editor.p5js.org/F12/sketches/vHkDAzvx-)s, + plus more.
 
