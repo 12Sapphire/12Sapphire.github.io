@@ -4,7 +4,7 @@
 
 ![](GithubWebsiteHeadline.png)
 ### About Me
-I've been interested in STEAM from around age 5. I loved STEM-based toys such as Magformers, LEGO Technic, Snap Circuits, K’NEX, and gear-based building kits. building and experimenting were something I always enjoyed.
+I've been interested in STEAM from around age 5. I loved STEM-based toys such as Magformers, LEGO Technic, Snap Circuits, K’NEX, and gear-based building kits..
 
 When I was 9 with a software called P5.js. I learned from Daniel Shiffman’s YouTube channel called [The Coding Train](https://www.youtube.com/@TheCodingTrain). I made a [tree using fractals](https://editor.p5js.org/F12/sketches/Db1CgRsBo), [abstract art](https://editor.p5js.org/F12/sketches/-IKibwxcz), [drawing game](https://editor.p5js.org/F12/sketches/vHkDAzvx-), + plus more.
 
