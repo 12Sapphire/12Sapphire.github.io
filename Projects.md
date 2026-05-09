@@ -4,5 +4,5 @@
 
 [Landslide Detection System](Landslide-Detection-System.md)
 
-In this project I built a simple landslide detection device that can detect landslide on a landslide model.
+In this project I built a simple landslide detection device that can detect landslides on a model.
 
