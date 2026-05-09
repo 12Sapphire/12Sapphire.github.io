@@ -1,8 +1,9 @@
+##### 2026
 # Landslide Detection System
 In this project, I'll be making a simple landslide detection device for a tech showcase.
 
-I wanted to build the landslide first. I wanted it to activate with a spray bottle as rain because rain is the most common reason for a landslide. But I found out water is too messy for a showcase and none of the tests I did worked. I ended up making a manually controlled slop that would mimic how a real landslide would happen out of cardboard.
+First, I wanted a landslide that activated with a spray bottle that to stimulate rain since heavy rain is the most common cause of landslides.  But soon I found out water is too messy for a showcase and none of the tests I did worked. I ended up making a manually controlled slop that mimiced how a real landslide would happen.
 
-Then I started working on the device.I wanted it to altert a landslide would happen wirelessly by Mosquitto. The hardware I used was an ESP32 board and IMU sensor. The software I used was the Arduino IDE and Google's Antigravity. 
+Then I started working on the device.I wanted it to altert a landslide would happen wirelessly by Mosquitto. The hardware I used was an ESP32 board and IMU sensor. For the software, I used the Arduino IDE and a new software that I'm unfamiliar with which is Google's Antigravity. 
 
-I started by prompting Antigravity to build a simple landslide detection that transfers data through Mosquitto with an IMU sensor and an ESP32 board. 
+I started by prompting Antigravity to build a simple landslide detection device that detects downward movement alerts a landslide might happen through Mosquitto with an IMU sensor and an ESP32 board. /blank/ I found out that the type of IMU Antigravity assumed I had (I also assumed I had that one) was absalutly wrong. After changing the IMU type, I couldn't find the new library I needed. So I told Antigravity to change the library. After changing the library, the code wouldn't compile. Antigravity was taking extremely long to reply. I gave the code to gemini and it told me that the new library had "arduino" written in it instead of "Arduino" and I fixed it manually. Later I found out I hadn't given Antigravity access to that library and thats why it was taking so long and couldn't fix the problem.
