@@ -22,4 +22,7 @@ After that, I made a dashboard to present the data cleanly.
 
 A few adjustments later, the project was finally ready to be showcased.
 
+## At the showcase
+I liked the showcase over all. We got goodie bags, free lunch, and my projects got the most compliments on a compliments board. 
+
 
