@@ -14,4 +14,8 @@ When the code was uploaded, the Serial Monitor gave weird readings, and nothing 
 
 Although the data was okay on the Serial Monitor, it couldn't connect to the MQTT broker. It didn't work for a few days, but in the end, the server was changed to HiveMQ, and some other adjustments were made. Then, it finally sent data to the MQTT server.
 
+After that, I made a dashboard to present the data cleanly.
+
+A few adujtments later, the project was finally ready to be showcased.
+
 
