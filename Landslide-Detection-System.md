@@ -1,10 +1,11 @@
 ###### 2026
 # Landslide Detection System
 In this project, I'll be making a simple landslide detection device for a tech showcase.
+## Why I Chose This Project
 
-First, I wanted a landslide that activated with a spray bottle to simulate rain, since heavy rain is the most common cause of landslides. But soon, I found out water is too messy for a showcase, and none of the tests I did worked. I ended up making a manually controlled slope that mimicked how a real landslide would happen.
+First, I wanted a landslide that activated with a spray bottle to simulate rain, since heavy rain is the most common cause of landslides. But soon, I found out water is too messy for a showcase, and none of the tests I did worked. I ended up making a manually controlled slope that mimicked how a real landslide would occur.
 
-Then, I started working on the device. I wanted it to alert that a landslide would happen wirelessly through Mosquitto. The hardware I used was an ESP32 board and an IMU sensor. For the software, I used the Arduino IDE and a new software that I'm unfamiliar with, which is Google's Antigravity.
+Then, I started working on the device. I wanted it send alerts wirelessly through Mosquitto. The hardware I used was an ESP32 board and an IMU sensor. For the software, I used the Arduino IDE and Google's Antigravity.
 
 I started by prompting Antigravity to build a simple landslide detection device that detects downward movement and alerts that a landslide might happen through Mosquitto using an IMU sensor and an ESP32 board.
 
