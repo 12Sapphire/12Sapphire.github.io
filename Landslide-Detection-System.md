@@ -20,6 +20,6 @@ Although the data was okay on the Serial Monitor, it couldn't connect to the MQT
 
 After that, I made a dashboard to present the data cleanly.
 
-A few adujtments later, the project was finally ready to be showcased.
+A few adjustments later, the project was finally ready to be showcased.
 
 
