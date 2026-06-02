@@ -2,6 +2,9 @@
 # Landslide Detection System
 In this project, I'll be making a simple landslide detection device for a tech showcase.
 ## Why I Chose This Project
+In the area we live in, landslides are a major problem and current tech used for detection can be expensive, hard to deploy, and older versions can lack cloud connection. I thought we could make a better device that is cheap, easy to deploy, and connected to the cloud. (Thic project is ONLY a project and I'm not planning to scale it up)
+
+## How I built it
 
 First, I wanted a landslide that activated with a spray bottle to simulate rain, since heavy rain is the most common cause of landslides. But soon, I found out water is too messy for a showcase, and none of the tests I did worked. I ended up making a manually controlled slope that mimicked how a real landslide would occur.
 
