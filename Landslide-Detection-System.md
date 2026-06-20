@@ -1,7 +1,7 @@
 # Proactive Landslide Detection Device
 In this project, I'll be making a simple landslide detection device for a tech showcase.
 
-## _____________________________________________________________________________________________
+## ______________________________________________________________________________________________________________________________________________________________________________________
 
 
 This project can detect landslides on a model slop before it become devestating. It sends a wireless alert on a dashboard if the model slop moved more than the threshold.
