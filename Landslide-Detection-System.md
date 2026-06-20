@@ -8,5 +8,7 @@ This project can detect landslides on a model slop before it become devestating.
 
 This was a team project and my job was the technical stuff.
 
-This project uses an ESP32 board, an IMU sensor, a MQTT broker, and a local website for processing and displaying the data. 
+This project uses an ESP32 board, an IMU sensor, a MQTT broker, and a local website for processing and displaying the data. I used an AI Coding agent to help me debug and write the code. 
+
+
 
