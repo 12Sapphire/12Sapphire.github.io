@@ -14,4 +14,10 @@ This project can detect landslides on a model slope before they become devastati
 ### Why I chose this project
 In the area I live in, landslides are a major problem, and the current tools used to detect them are very inefficient and expensive. So we developed a basic device that is cheaper and more effiecient and can detect landslides on a model slope.
 
-### Hou I built it
+### How I built it
+I started by using the AI coding agent to write the code. As I faced challenges and errors, I iterated the code and adapted it to the new circunstances. The main challenges and errors were getting it to work at the showcase, sending the data wirelessy, and getting the readings correct.
+
+## At the showcase
+
+
+# To Be Continued
