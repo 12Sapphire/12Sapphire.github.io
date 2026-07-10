@@ -7,7 +7,7 @@
 In this project, I built a simple landslide detection device that can detect landslides on a model slope.
 
 
-[Household Object Detection System](HouseholdDetect.md)
+[Household Object Detection System](HouseDetect.md)
 
 In this project, I built a household object detection system.
 
